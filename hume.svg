@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 300" role="img" aria-labelledby="title desc">
+  <title id="title">Ilustración filosófica de David Hume</title>
+  <desc id="desc">Cuaderno de notas y formas circulares que sugieren experiencia y observación.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#f8f2e8"/>
+      <stop offset="1" stop-color="#c9d3d7"/>
+    </linearGradient>
+  </defs>
+  <rect width="420" height="300" rx="26" fill="url(#bg)"/>
+  <circle cx="310" cy="92" r="52" fill="#1d3248" opacity=".14"/>
+  <circle cx="310" cy="92" r="23" fill="#b4683d" opacity=".36"/>
+  <rect x="78" y="68" width="176" height="178" rx="20" fill="#fff8ef" stroke="#8b4f2c" stroke-width="8"/>
+  <path d="M112 110h102M112 142h86M112 174h112M112 206h70" stroke="#1d3248" stroke-width="8" stroke-linecap="round" opacity=".8"/>
+  <path d="M276 208c24-34 46-34 70 0" fill="none" stroke="#8b4f2c" stroke-width="9" stroke-linecap="round"/>
+  <path d="M276 208c24 22 46 22 70 0" fill="none" stroke="#8b4f2c" stroke-width="9" stroke-linecap="round" opacity=".7"/>
+</svg>
