@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 300" role="img" aria-labelledby="title desc">
+  <title id="title">Ilustración filosófica de Immanuel Kant</title>
+  <desc id="desc">Cielo estrellado y compás conceptual sobre una mesa de estudio.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#111b26"/>
+      <stop offset="1" stop-color="#31445a"/>
+    </linearGradient>
+  </defs>
+  <rect width="420" height="300" rx="26" fill="url(#bg)"/>
+  <g fill="#d8b46d">
+    <circle cx="76" cy="58" r="4"/><circle cx="128" cy="92" r="3"/><circle cx="198" cy="48" r="4"/>
+    <circle cx="286" cy="78" r="3"/><circle cx="344" cy="44" r="5"/><circle cx="362" cy="126" r="3"/>
+  </g>
+  <path d="M210 88l30 83 88 4-69 54 23 84-72-48-72 48 23-84-69-54 88-4z" fill="#d8b46d" opacity=".18"/>
+  <path d="M210 93l-64 148M210 93l64 148M158 213h104" stroke="#fff8ef" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="210" cy="93" r="14" fill="#d8b46d"/>
+  <path d="M112 238h196" stroke="#b4683d" stroke-width="12" stroke-linecap="round"/>
+</svg>

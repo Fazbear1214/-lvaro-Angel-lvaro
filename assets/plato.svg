@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" role="img" aria-labelledby="title desc">
+  <title id="title">Retrato ilustrado de Platón</title>
+  <desc id="desc">Ilustración decorativa inspirada en un busto clásico de Platón.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f6ead6"/>
+      <stop offset="100%" stop-color="#d9bb94"/>
+    </linearGradient>
+    <linearGradient id="stone" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#fff5e6"/>
+      <stop offset="100%" stop-color="#ddc4a1"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="560" fill="url(#bg)"/>
+  <g opacity=".18" fill="#1d3248">
+    <circle cx="126" cy="120" r="54"/>
+    <circle cx="684" cy="432" r="80"/>
+  </g>
+  <g transform="translate(212 58)">
+    <path d="M200 22c79 0 130 60 130 126 0 48-25 85-61 109 22 12 38 35 48 69l35 118H48l33-118c10-34 27-57 50-69-36-24-62-61-62-109 0-66 52-126 131-126z" fill="url(#stone)"/>
+    <path d="M109 116c13-58 59-95 116-95 54 0 98 36 111 88-20-14-50-19-78-14-22-18-50-24-82-16-28 7-47 19-67 37z" fill="#ead4b6"/>
+    <circle cx="166" cy="168" r="14" fill="#745b45" opacity=".15"/>
+    <circle cx="235" cy="168" r="14" fill="#745b45" opacity=".15"/>
+    <path d="M164 216c20 16 54 16 74 0" stroke="#ab8864" stroke-width="8" fill="none" stroke-linecap="round"/>
+    <path d="M138 264c40 12 88 12 128 0" stroke="#d0b38f" stroke-width="17" fill="none" stroke-linecap="round"/>
+  </g>
+</svg>
