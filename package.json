@@ -1,0 +1,12 @@
+{
+  "name": "agora-filosofica",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Backend Node para o chat de Agora Filosofica con Gemini.",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
